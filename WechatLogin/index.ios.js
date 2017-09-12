@@ -16,8 +16,8 @@ import {
   WebView,Linking,
 } from 'react-native';
 import * as WeChat from 'react-native-wechat';
-let appid = 'wx015976841b0a33d6';
-let secretID = '7a9ebc6f2902f9643d67d7d0eda23283';
+let appid = 'wx0159768xxxxxxxxxx';
+let secretID = '7a9ebc6f2902f964xxxxxxxxx';
 import ToastUtil from './utils/ToastUtil';
 export default class LiCaiApp extends Component {
   render() {
