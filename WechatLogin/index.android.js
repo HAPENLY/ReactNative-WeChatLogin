@@ -13,7 +13,7 @@ import {
   TouchableOpacity,Platform
 } from 'react-native';
 import * as WeChat from 'react-native-wechat';
-let appid = 'wxd930ea5d5a258f4f';
+let appid = 'wxxxxxxxxxxxxxxxxx';
 import ToastUtil from './utils/ToastUtil';
 export default class LiCaiApp extends Component {
   render() {
