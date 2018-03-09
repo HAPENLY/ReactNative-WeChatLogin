@@ -1,5 +1,12 @@
 # ReactNative-WeChatLogin
 基于react-native-wechat 实现的微信登录.只需 CV 大法就可以.(自发现教程,没有发现现成 demo 所以我就简单搞了一下按照网上的教程写的 demo)
+
+**欢迎大家加群讨论**
+
+点击链接加入群[ReactNative-解决问题交流群(此群已满请加群2)](https://jq.qq.com/?_wv=1027&k=4EZwdSd) :644124441
+
+点击链接加入群[ReactNative技术交流群2](https://jq.qq.com/?_wv=1027&k=55Dujm4)  :687663534
+
 **需要真机 run**
 > 具体怎么配置我就不说了网上一堆.我这里只提供实现☺
 ## 第一步：请求CODE
